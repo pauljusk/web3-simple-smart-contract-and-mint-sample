@@ -10,7 +10,6 @@ npm install
 ```
 
 Update env variables with information from metamask and aclchemy.
-Start the server locally:
 
 ```bash
 # compile and deploy smart contract
